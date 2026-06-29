@@ -30,6 +30,8 @@ public class UnoOnline
        newPortal.run();
        
        System.out.println("Helloooooooooooooooooooooooooooooooooooooooooooo");
+
+       System.out.println("you can never say never, while we dont know when, time time and time again, younger now than we were beforeee")
     }
      /**
      * method that takes in the User's name and chosen password
